@@ -1,7 +1,6 @@
 # osproject
 
-it's my os project 
-2. In the traffic intersection problem, vehicles are trying to pass through an
+In the traffic intersection problem, vehicles are trying to pass through an
 intersection of two roads, one north/south, the other east/west, without
 colliding. Each vehicle arrives at the intersection from one of four
 directions (north, south, east, or west), called it’s origin . It is trying to pass
