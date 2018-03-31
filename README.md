@@ -19,7 +19,7 @@ configurable period of time before generating another random vehicle and
 repeating the process. Each thread simulates one vehicle at a time.
 However, since there are multiple concurrent threads, there may be
 multiple vehicles attempting to enter the critical section (intersection) c
-ncurrently.
+ncurrently.</br>
 Your job is to synchronize the vehicles so that they do not collide in the
 intersection. Informally, it is OK for more than one vehicle to be in the
 intersection at the same time as long as their paths will not result in a
