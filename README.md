@@ -1,4 +1,4 @@
-# osproject
+# threads
 
 In the traffic intersection problem, vehicles are trying to pass through an
 intersection of two roads, one north/south, the other east/west, without
